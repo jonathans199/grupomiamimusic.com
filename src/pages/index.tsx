@@ -8,7 +8,7 @@ export default function Home() {
 		<section className='bg-gray-900 text-white'>
 			<div className='mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-screen lg:items-center'>
 				<div className='mx-auto max-w-3xl flex flex-col items-center text-center '>
-					<Image className='mb-4' src='/miami-music-logo-drk.png' width={300} height={300} />
+					<Image className='mb-4' src='/miami-music-logo-drk.png' width={300} height={300} alt='miami-music-logo' />
 
 					<p className='mx-auto mt-4 max-w-xl sm:text-xl/relaxed'>
 						Grupo Miami Music is a dynamic Latin band that will get you moving with their electrifying blend of salsa,
