@@ -21,11 +21,11 @@ export default function Navigation() {
 									</a>
 									<div className='hidden lg:ml-6 lg:block'>
 										<div className='flex space-x-4'>
-											<a
+											{/* <a
 												href='/brands'
 												className='rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white'>
 												TECHPALOOZA 2024
-											</a>
+											</a> */}
 
 											{/* <a
                         href="/contact"
@@ -157,7 +157,7 @@ export default function Navigation() {
 						<Disclosure.Panel className='lg:hidden'>
 							<div className='space-y-1 bg-icp-dark px-2 pb-3 pt-2'>
 								{/* Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" */}
-								<Disclosure.Button
+								{/* <Disclosure.Button
 									as='a'
 									href='/about'
 									className='block rounded-md bg-gray-900 px-3 py-2 text-base font-medium text-white'>
@@ -187,7 +187,7 @@ export default function Navigation() {
 									href='/contact'
 									className='block rounded-md px-3 py-2 text-base font-medium text-gray-300 hover:bg-gray-700 hover:text-white'>
 									CONTACT
-								</Disclosure.Button>
+								</Disclosure.Button> */}
 							</div>
 							{/* <div className="border-t border-gray-700 pb-3 pt-4">
                 <div className="flex items-center px-5">
