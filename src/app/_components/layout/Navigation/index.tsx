@@ -13,11 +13,7 @@ export default function Navigation() {
 							<div className='relative flex h-16 items-center justify-between'>
 								<div className='flex items-center px-2 lg:px-0'>
 									<a className='flex-shrink-0' href='/'>
-										<img
-											className='h-20 w-auto'
-											src='/img/logos/miami-music-logo-drk.webp'
-											alt='Grupo Miami Music logo'
-										/>
+										<img className='h-20 w-auto' src='/img/logos/miami-music-logo.svg' alt='Grupo Miami Music logo' />
 									</a>
 									<div className='hidden lg:ml-6 lg:block'>
 										<div className='flex space-x-4'>
